@@ -20,5 +20,28 @@
 		
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Introducing Play The Field</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_00_Trailer1.mp3' length='1452242' type='audio/mpeg'/>
+			<guid>2022-04-09-Trailer1</guid>
+            <pubDate>Sat, 09 Apr 2022 10:00:00 -0400</pubDate>
+            <description><![CDATA[<p>Play The Field, hosted by Tyler Purdy, Max Adams, &amp; Liam Spellman, is three college buddies talking about everything you need to know regarding the major sports organizations in the world and top collegiate athletics. Top headlines and topics will be discussed and debates are encouraged. It might even get a little heated! Be sure to tune in on Wednesdays!</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/playthefieldpod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>60</itunes:duration>
+            <link>https://playthefield.hightops.media//2022/04/09/Trailer1/</link>
+			<itunes:image href='https://playthefield.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>0</itunes:episode>
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>trailer</itunes:episodeType>
+        </item>
     </channel>
 </rss>
