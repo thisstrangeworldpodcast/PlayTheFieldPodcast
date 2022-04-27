@@ -21,6 +21,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>NFL Mock Draft + Get the Brooms Out Boston!</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_03_NFL-Mock-Draft.mp3' length='168681562' type='audio/mpeg'/>
+			<guid>2022-04-27-NFL-Mock-Draft</guid>
+            <pubDate>Wed, 27 Apr 2022 09:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This week on Play The Field, Liam, Max, and Tyler talk about round one of the NBA playoffs and how the series are unfolding. They also give a top 10 mock draft for the NFL Draft this Thursday.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/playthefieldpod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>5271</itunes:duration>
+            <link>https://play-the-field.hightops.media/2022/04/27/NFL-Mock-Draft/</link>
+			<itunes:image href='https://play-the-field.hightops.media/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>NBA Playoffs Recap</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_02_NBA-Playoffs-Recap.mp3' length='105386657' type='audio/mpeg'/>
 			<guid>2022-04-21-NBA-Playoffs-Recap</guid>
