@@ -21,10 +21,33 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Joker Wins Back to Back MVPs</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_05_The-Joker-Wins.mp3' length='118511412' type='audio/mpeg'/>
+			<guid>2022-05-12-The-Joker-Wins</guid>
+            <pubDate>Thu, 12 May 2022 08:30:00 +0200</pubDate>
+            <description><![CDATA[<p>This week on Play The Field, Liam, Max, and Tyler talk about the current NBA playoff series and how they are unfolding. Plus, they give their takes on the top five remaining players in the NBA playoffs.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/playthefieldpod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3703</itunes:duration>
+            <link>https://play-the-field.hightops.media/2022/05/12/The-Joker-Wins/</link>
+			<itunes:image href='https://play-the-field.hightops.media/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Winners of the NFL Draft and it’s the Ja Show</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_04_Winners-of-the-NFL-Draft.mp3' length='102390725' type='audio/mpeg'/>
 			<guid>2022-05-07-Winners-of-the-NFL-Draft</guid>
-            <pubDate>Sat, 07 May 2022 09:00:00 -0400</pubDate>
+            <pubDate>Sat, 07 May 2022 15:00:00 +0200</pubDate>
             <description><![CDATA[<p>This week on Play The Field, Liam, Max, and Tyler talk about the winners and losers of the 2022 NFL Draft. They also discuss the current series in the NBA playoffs and give their bets for the week.</p>
 
 <p>Don’t forget to follow on Instagram! <br />
@@ -47,7 +70,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>NFL Mock Draft + Get the Brooms Out Boston!</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_03_NFL-Mock-Draft.mp3' length='168681562' type='audio/mpeg'/>
 			<guid>2022-04-27-NFL-Mock-Draft</guid>
-            <pubDate>Wed, 27 Apr 2022 09:00:00 -0400</pubDate>
+            <pubDate>Wed, 27 Apr 2022 15:00:00 +0200</pubDate>
             <description><![CDATA[<p>This week on Play The Field, Liam, Max, and Tyler talk about round one of the NBA playoffs and how the series are unfolding. They also give a top 10 mock draft for the NFL Draft this Thursday.</p>
 
 <p>Don’t forget to follow on Instagram! <br />
@@ -70,7 +93,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>NBA Playoffs Recap</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_02_NBA-Playoffs-Recap.mp3' length='105386657' type='audio/mpeg'/>
 			<guid>2022-04-21-NBA-Playoffs-Recap</guid>
-            <pubDate>Thu, 21 Apr 2022 06:00:00 -0400</pubDate>
+            <pubDate>Thu, 21 Apr 2022 12:00:00 +0200</pubDate>
             <description><![CDATA[<p>This week on Play The Field, Liam, Max, and Tyler give an in depth analysis on the first round of the NBA playoffs and bets of the week.</p>
 
 <p>Don’t forget to follow on Instagram! <br />
@@ -93,7 +116,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>NBA Season Recap + Play-in Game Locks</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_01_NBA-Season-Recap.mp3' length='113423176' type='audio/mpeg'/>
 			<guid>2022-04-13-NBA-Season-Recap</guid>
-            <pubDate>Wed, 13 Apr 2022 06:00:00 -0400</pubDate>
+            <pubDate>Wed, 13 Apr 2022 12:00:00 +0200</pubDate>
             <description><![CDATA[<p>In the debut episode of Play The Field, Liam, Max, and Tyler discuss NBA awards, NBA season takeaways, opening day for MLB, and more!</p>
 
 <p>Don’t forget to follow on Instagram! <br />
@@ -116,7 +139,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Introducing Play The Field</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_00_Trailer1.mp3' length='1452242' type='audio/mpeg'/>
 			<guid>2022-04-09-Trailer1</guid>
-            <pubDate>Sat, 09 Apr 2022 09:00:00 -0400</pubDate>
+            <pubDate>Sat, 09 Apr 2022 15:00:00 +0200</pubDate>
             <description><![CDATA[<p>Play The Field, hosted by Tyler Purdy, Max Adams, &amp; Liam Spellman, is three college buddies talking about everything you need to know regarding the major sports organizations in the world and top collegiate athletics. Top headlines and topics will be discussed and debates are encouraged. It might even get a little heated! Be sure to tune in on Wednesdays, you won’t want to miss it!</p>
 
 <p>Don’t forget to follow on Instagram! <br />
