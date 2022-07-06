@@ -21,6 +21,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>E! Network or NBA Offseason?</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_08_E-Network-or-NBA-Offseason.mp3' length='80539287' type='audio/mpeg'/>
+			<guid>2022-07-06-E-Network-or-NBA-Offseason</guid>
+            <pubDate>Wed, 06 Jul 2022 01:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This week on Play The Field, Liam and Max detail and break down all the drama the NBA has brought to us this offseason already. They also give their projected moves to still be made this offseason. Tune in!</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/playthefieldpod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3355</itunes:duration>
+            <link>https://play-the-field.hightops.media/2022/07/06/E-Network-or-NBA-Offseason/</link>
+			<itunes:image href='https://play-the-field.hightops.media/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>8</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Well...The Warriors did it again. NBA Finals Recap + NBA very short Mock Draft</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_07_NBA-Finals-Recap.mp3' length='16671211' type='audio/mpeg'/>
 			<guid>2022-06-23-NBA-Finals-Recap</guid>
