@@ -21,6 +21,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>What’s been going on in the MLB?</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_09_Whats-been-going-on-in-the-MLB.mp3' length='41498179' type='audio/mpeg'/>
+			<guid>2022-07-19-Whats-been-going-on-in-the-MLB</guid>
+            <pubDate>Tue, 19 Jul 2022 00:30:00 -0400</pubDate>
+            <description><![CDATA[<p>This week on Play The Field, how are the Mariners and Orioles winning? How is New York running the league? What’s going on in Anaheim? As well as Max and Liam’s Top 3 MVP candidates in the NL and AL for the first half of the season. Tune in!</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/playthefieldpod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3558</itunes:duration>
+            <link>https://play-the-field.hightops.media/2022/07/19/Whats-been-going-on-in-the-MLB/</link>
+			<itunes:image href='https://play-the-field.hightops.media/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>9</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>E! Network or NBA Offseason?</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/PTF/PTF_S01_08_E-Network-or-NBA-Offseason.mp3' length='80539287' type='audio/mpeg'/>
 			<guid>2022-07-06-E-Network-or-NBA-Offseason</guid>
